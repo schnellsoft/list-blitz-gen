@@ -81,7 +81,7 @@ export async function clearBoardCache(): Promise<void> {
 
 export function readStrategy(): Strategy {
   const stored = localStorage.getItem(STRATEGY_KEY);
-  return stored === "cache-first" ? "cache-first" : "swr";
+  return stored === "swr" ? "swr" : "cache-first";
 }
 
 export function writeStrategy(strategy: Strategy): void {
