@@ -1,7 +1,7 @@
 import type { BoardData, LoadResult, LoadSource, Strategy } from "./types.ts";
 
 export const CACHE_NAME = "harbor-board-v1";
-export const DATA_PATH = "/data/items.json";
+export const DATA_PATH = `${import.meta.env.BASE_URL}data/items.json`;
 export const STRATEGY_KEY = "harbor-board-strategy";
 
 let memoryCopy: BoardData | null = null;

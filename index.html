@@ -13,16 +13,17 @@
       /* Preload JSON only when the Cache API has nothing yet.
          A static preload tag would fire a network request on every visit. */
       if ("caches" in window) {
+        var dataUrl = new URL("data/items.json", document.baseURI);
         caches
           .open("harbor-board-v1")
           .then(function (cache) {
-            return cache.match("/data/items.json");
+            return cache.match(dataUrl);
           })
           .then(function (hit) {
             if (hit) return;
             var link = document.createElement("link");
             link.rel = "preload";
-            link.href = "/data/items.json";
+            link.href = dataUrl.href;
             link.as = "fetch";
             link.crossOrigin = "anonymous";
             document.head.appendChild(link);
