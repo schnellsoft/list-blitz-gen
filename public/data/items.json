@@ -1,0 +1,134 @@
+{
+  "updated": "2026-09-09T07:40:00.000Z",
+  "harbor": "Port Meridian",
+  "listings": [
+    {
+      "id": "ferry-dawn",
+      "category": "Transit",
+      "title": "Dawn ferry to Gull Spit",
+      "summary": "Leaves slip 4 at 06:10. Last walk-on tickets sold at the kiosk, not onboard. Bicycles in the bow rack only.",
+      "place": "North quay",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "catch-whiting",
+      "category": "Market",
+      "title": "Whiting and lemon sole on the slab",
+      "summary": "Brought in before first light. Sole goes first; ask Marta for the smaller fish if you are frying at home.",
+      "place": "Fish hall",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "tide-springs",
+      "category": "Water",
+      "title": "Spring tide this evening",
+      "summary": "High water 21:14. The outer steps will cover. Do not leave dinghies on the lower rings overnight.",
+      "place": "Whole harbor",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "lost-cap",
+      "category": "Lost",
+      "title": "Navy wool cap, brass pin",
+      "summary": "Found on the west pontoon after the squall. Pin is a small mackerel. Claim at the harbor office with a description.",
+      "place": "Harbor office",
+      "posted": "2026-09-08"
+    },
+    {
+      "id": "repair-caulk",
+      "category": "Work",
+      "title": "Caulking help needed on Lark",
+      "summary": "Wooden sloop on hard standing. Two days of seam work, tools provided. Pay at the end of each day. Speak to Owen.",
+      "place": "Yard B",
+      "posted": "2026-09-08"
+    },
+    {
+      "id": "music-netloft",
+      "category": "Night",
+      "title": "Fiddle night in the net loft",
+      "summary": "Friday from 20:00. Bring a chair if you have one. No tickets; hat by the door for the players.",
+      "place": "Old net loft",
+      "posted": "2026-09-07"
+    },
+    {
+      "id": "cleanup-cove",
+      "category": "Volunteer",
+      "title": "Cove cleanup after the weekend swell",
+      "summary": "Meet at the lookout, 09:00 Saturday. Gloves and sacks on site. Dogs welcome if they stay off the nests.",
+      "place": "Heron Cove",
+      "posted": "2026-09-07"
+    },
+    {
+      "id": "bread-kiln",
+      "category": "Market",
+      "title": "Kiln bakery: rye and fennel loaves",
+      "summary": "Oven opens at 08:30. Fennel sells out by 09:15. Leave a tin if you want a loaf held until noon.",
+      "place": "East shed",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "library-charts",
+      "category": "Notice",
+      "title": "New coastal charts at the reading room",
+      "summary": "2026 corrections for the inner channel. Ask at the desk; they do not leave the building.",
+      "place": "Reading room",
+      "posted": "2026-09-06"
+    },
+    {
+      "id": "berth-open",
+      "category": "Berth",
+      "title": "Visitor berth 18 free until Thursday",
+      "summary": "Twelve meters, shore power, water on the finger. Book at the office before 16:00 or it goes to the waiting list.",
+      "place": "Inner basin",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "cat-mackerel",
+      "category": "Lost",
+      "title": "Tabby cat, answers to Mackerel",
+      "summary": "White bib, nick in the left ear. Last seen near the smokehouse. Food bowl left out by the ice doors.",
+      "place": "Smokehouse lane",
+      "posted": "2026-09-05"
+    },
+    {
+      "id": "class-knots",
+      "category": "Notice",
+      "title": "Sunday knot class for new crew",
+      "summary": "Bowline, clove hitch, and a coil that will not explode in the locker. Free, 11:00, bring a length of old line if you have it.",
+      "place": "Club shed",
+      "posted": "2026-09-04"
+    },
+    {
+      "id": "oyster-bags",
+      "category": "Work",
+      "title": "Oyster bags to sort, short shift",
+      "summary": "Four hours on the trestles, low tide window. Waterproofs on the hook. Cash same day.",
+      "place": "South flats",
+      "posted": "2026-09-08"
+    },
+    {
+      "id": "lamp-out",
+      "category": "Water",
+      "title": "Green lamp out on the east groyne",
+      "summary": "Unlit since Monday night. Use the red on the pier head until it is replaced. Report is already with Trinity.",
+      "place": "East groyne",
+      "posted": "2026-09-09"
+    },
+    {
+      "id": "supper-pollock",
+      "category": "Night",
+      "title": "Pollock stew at the watch house",
+      "summary": "Wednesday, 18:30. Bowl and bread, pay what you can. First come; forty covers.",
+      "place": "Watch house",
+      "posted": "2026-09-08"
+    },
+    {
+      "id": "weather-front",
+      "category": "Water",
+      "title": "Front due Thursday, southwest 6 to 7",
+      "summary": "Double up lines. Fenders on the pile side. The inner pontoon will surge after 15:00.",
+      "place": "Whole harbor",
+      "posted": "2026-09-09"
+    }
+  ]
+}
